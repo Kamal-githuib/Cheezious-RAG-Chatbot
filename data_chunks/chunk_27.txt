@@ -1,0 +1,13 @@
+BranchName Location ContactNumber
+CheeziousHBKBranch AchiniPayan,Peshawar,KhyberPakhtunkhwa(091)111446699
+CheeziousTehkalBranch Tehkal,Peshawar,KhyberPakhtunkhwa (091)111446699
+CheeziousInOkara
+BranchName Location ContactNumber
+CheeziousOkaraBranch TehsilRd,AamirColony,Okara 03412226677
+CheeziousInSahiwal
+BranchName LocationContact
+Number
+CheeziousNearPilotSchool
+BranchGujjarAhataChawk,MazdoorPulliRd,
+Sahiwal03474222002
+CheeziousPalmViewMarketBranchLocatedatPalmViewMarket,Sahiwal 03041111858

@@ -1,0 +1,11 @@
+StuffCrustpizza 250-350perslice
+CrownCrustPizza 250-350perslice
+FettuccineAlfredoPasta 250-350perserving
+CrunchyChickenPasta 250-350perslice
+BazingaSupreme 250-350perslice
+ReggyBurger 250-350perserving
+Fries 50-100perserving
+Nuggets 50-100perserving
+chickenPiece 100-150perpiece
+CheeziousBranches
+Cheezioushasmorethan40branchesalloverPakistaninallmajorcitieslikeIslamabad,Rawalpindi,Lahore,andSahiwal.

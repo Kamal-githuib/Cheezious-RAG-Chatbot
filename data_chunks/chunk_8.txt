@@ -1,0 +1,11 @@
+ CrunchyChickenPasta
+ MexicanSandwich
+ Nuggets
+ExploreCheeziousMenu
+BhookKatheEnd
+Bazooka:Tender,Spicychickenstripswithmayo,jalapeno,pickleandsignaturesauce.
+Starters
+ CheesySticks:Freshlybakedbreadcrushedwithmeltedcheeseandservedwithdipsauce.
+ OvenBakedWings:Ovenbakedwingsservedwithdipsauce.
+ FlamingWings:Freshovenbakedwingstossedinhotperiperisauce,servedwithdipsauce.
+ CalzoneChunks:4pcStuffedCalzonechunksservedwithfriesanddipsauce.

@@ -1,0 +1,17 @@
+CheeziousBahriaTownBranch 11am–3am
+CheeziousInIslamabad
+BranchName Timing
+CheeziousG-9 11am–11am
+CheeziousF-7MarkazBranch 11am–3am
+CheeziousF-10 11am–3am
+CheeziousF-11Branch 11am–3am
+CheeziousGolraMorrBranch 11am–3am
+CheeziousGhauriTownBranch 11am–3am
+CheeziousCentaurusBranch 11am–11pm
+CheeziousI-8Branch 11am–3am
+CheeziousTaramriBranch 11am–3am
+CheeziousG-13Branch 11am–3am
+CheeziousGigaMallBranch 11am–3am
+CheeziousHeadquarters 9am–6pm
+CheeziousInLahore
+BranchName Timing

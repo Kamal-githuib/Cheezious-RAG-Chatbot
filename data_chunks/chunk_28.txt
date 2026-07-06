@@ -1,0 +1,11 @@
+CheeziousInMianChannu
+BranchName Location ContactNumber
+CheeziousPalmViewMarketBranchLocatedatPalmViewMarket,Sahiwal03041111858
+CheeziousInPattoki
+BranchName Location ContactNumber
+CheeziousPattokiBranchShahrah-e-Quaid-e-AzamRd,FaisalColony,Pattoki(049)4422110
+CheeziousInWahCantt
+BranchName Location ContactNumber
+CheeziousWahBranch MainGrandTrunkRd,WahCantt (051)4594041
+CheeziousInKarachi
+BranchName Location ContactNumber

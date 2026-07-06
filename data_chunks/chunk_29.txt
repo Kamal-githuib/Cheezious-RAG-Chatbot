@@ -1,0 +1,13 @@
+BranchName Location ContactNumber
+CheeziousKarachiBranchFederalBAreaBlock2MainHussainabad,Karachi03192409618
+CheeziousTimings
+Cheeziousbrancheshavedifferenttimings.HereisthelistofallCheeziousbranchestiming.
+CheeziousInRawalpindi
+BranchName Timing
+CheeziousSaddarBranch 11am–3am
+CheeziousPWDRDBranch 11am–3am
+CheeziousScheme3Branch 11am–3am
+CheeziousCommercialMarketBranch 11am–3am
+CheeziousAdyalaRoadBranch 11am–3am
+CheeziousKalmaChowkBranch 11am–3am
+CheeziousBahriaTownBranch 11am–3am

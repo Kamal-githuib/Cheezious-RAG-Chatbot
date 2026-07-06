@@ -1,0 +1,8 @@
+ SausagePizza:Chickensausageswithonionandcheese.
+ ChickenLoverPizza:Yummiestblendofcheeseandpizzasauce.
+ ChickenPepperoni:Yummiestblendofchickenpepperoniwithpizzasauceandcheese.
+CheezyTreats
+ CheeziousSpecial:Specialchickenwithblackolives,sausages,andbellpepper.
+ BehariKabab:Beharikabab,grilledchicken,onion,jalapenoandginger.
+ ChickenExtreme:3flavorsofchickenwithonion,bellpepper,mushroomandgreenolives.
+Sandwiches&Platters

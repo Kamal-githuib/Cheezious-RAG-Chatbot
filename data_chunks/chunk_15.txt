@@ -1,0 +1,13 @@
+ Bazooka:Spicychickenstripspairedwithmayo,signaturesauce,jalapenoandpickle.
+Side&Appetizers
+ Fries:Crispyfries
+ Nuggets:5pieceschickennuggets
+ ChickenPiece:Crispyfriedchickenpiece
+Desserts
+ ChocolateMilkCake:RefreshingMilkCakewithChocolateSyrup.
+ LotusMilkCake:MilkCakewithLotusSyrup.
+ FudgeMilkCake:ChocolatefudgeCake.
+ CheesecakeSlice:DeliciousCheesecakeSlice
+CheeziousMidnightDeals
+Cheeziousmenuoffersdifferentmidnightdeals.Thisofferisavailablefrom12amto3am.
+CheeziousMidnightMunch Price

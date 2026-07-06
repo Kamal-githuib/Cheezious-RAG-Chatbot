@@ -1,0 +1,8 @@
+ HotnSpicy:HotnSpicychickenwithonionandjalapeno.
+ VegetablePizza:Vegetableswithpizzasauceandcheese.
+SomewhatSooper
+ Euro:Adelightfulcombinationofspecialsmokedchickenwithbellpepperandmushrooms.
+ ChickenSupreme:Threeflavorsofchickenwithblackolives,mushrooms,bellpepper,andonion.
+ BlackPepperTikka:Blendofblackpepperchickenwithonionandbellpepper.
+ ChickenMushroom:Lotsofcrispychickenbites,mushrooms,Onions,Cheese,driedoregano,andAlfredosauce.
+ SausagePizza:Chickensausageswithonionandcheese.

@@ -1,0 +1,17 @@
+MenuItem Calories
+Bazooka 500-600perserving
+CheezySticks 300-400perserving
+OvenBakedWings 100-150perwing
+FlamingWings 150-200perwing
+CalzoneChunks 200-250perchunk
+ArabicRolls 200-300perroll
+BehariRolls 200-300perroll
+ChickenTikka 150-200perpiece
+ChickenFajita 250-350perpiece
+ChcikenLover 200-300perslice
+VegetablePizza 250-350perslice
+HotnSpicy 200-300perslice
+CheeseLover 250-350perslice
+ChiceknTandoori 250-350perslice
+ChickenMushroom 250-350perslice
+SausagePizza 250-350perslice

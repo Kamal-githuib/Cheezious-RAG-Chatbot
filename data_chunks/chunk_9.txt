@@ -1,0 +1,8 @@
+ ArabicRolls:4pcsArabicrollsstuffedwithadeliciousmix,servedwithsauce.
+ BehariRolls:4pcsBeharirollsstuffedwithatastymix,servedwithsauce.
+SomewhatLocal
+ ChickenTikka:Grilledchickenwithmozzarellacheese,redonionandhotsauce.
+ ChickenFajita:Authenticfajitamarinatedchickenwithonionandbellpepper.
+ ChickenLover:Forchickenloverswithoverloadedchickenonionandcheese.
+ ChickenTandoori:TraditionaltandoorichickenwithJalapeno,cheese,onionandtomato.
+ HotnSpicy:HotnSpicychickenwithonionandjalapeno.

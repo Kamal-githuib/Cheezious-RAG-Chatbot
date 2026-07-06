@@ -1,0 +1,14 @@
+BazingaBurger+CheeseSlice Rs620
+Chickenpiece+Fries+nuggets Rs600
+Nuggets+Fries+Reg.Drink Rs750
+CheeziousMenuVariations
+InCheeziousmenuyou’llgetdifferentcomboswiththemainfooditem.Hereisthelistofallcomboswithpricesavailableat
+Cheezious
+Item Variations Price
+OvenBakedwings 6pcs/12pcs Rs600/Rs1150
+Flamingwings 6pcs/12pcs Rs650/Rs1250
+ChickenPiece 1pcs/3pcs Rs300/Rs740
+CheeziousMenuCalories
+HereistableforcaloriecountofeachitemservedinCheeziousmenu.
+MenuItem Calories
+Bazooka 500-600perserving

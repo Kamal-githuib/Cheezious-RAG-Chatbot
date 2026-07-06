@@ -1,0 +1,18 @@
+699
+CheeziousPackagesMallMainWaltonRd,Nishtar,Shahrah-e-RoomiTown,
+Lahore,(042)111446
+699
+CheeziousJallo Plotno16,BlockBIndigo,Society,Lahore(042)111446
+699
+CheeziousG3Branch 446,BlockG3Phase2JoharTown,Lahore(042)111446
+699
+CheeziousJ3BranchShahrahNazria-e-Pakistan,BlockJ3,JoharTown,
+Lahore(042)111446
+699
+CheeziousBaghbanpura
+BranchGTRd,Baghbanpura,Lahore(042)111446
+699
+CheeziousDHAPhase4
+BranchSectorFFDHAPhase4,Lahore(042)111446
+699
+CheeziousGulshan-e-Ravi

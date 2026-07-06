@@ -1,0 +1,8 @@
+Sandwiches&Platters
+ SpecialRoastedPlatter:4pcsBeharirolls,4pcswingsservedwithfriesandsauce.
+ MexicanSandwich:Mozzarella-dippedchickenwithgarlicsauceandtomatoes.
+ PizzaStacker:Uniqueblendofsauce,crispychicken,andpizzacrust.
+ EuroSandwich:Mozzarelladippedblackpeerchickentoppedwithgarlicsauce,pineapples,andtomatoes.
+ ClassicRollPlatter:4pcsBehariroll,4pcsArabicrollservedwithfriesandsauce.
+PizzaDeals
+ SmallPizzaDeal:AnyflavorsmallpizzafromLocalLoveorOvertheSeacategorywith1softdrink.

@@ -1,0 +1,15 @@
+SausagePizza 250-350perslice
+CheeseLoverPizza 250-350perslice
+ChickenPepperoniPIzza 250-350perslice
+BlackPepperTikka 150-200perpiece
+ChickenSupreme 250-350perslice
+Euro 250-350perslice
+BehariKabab 150-200perpiece
+CheeziousSpecial 250-350perslice
+ChickenExtreme 250-350perslice
+SpecialRoastedPlatter 100-150perpiece
+MexicanSandwich 100-150perpiece
+PizzaStacker 200-250perpiece
+EuroSandwich 150-200perpiece
+ClassicRollPlatter 150-200perpiece
+StuffCrustpizza 250-350perslice

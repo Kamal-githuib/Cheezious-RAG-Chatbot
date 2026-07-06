@@ -1,0 +1,17 @@
+CheeziousF-10F-10MarkazF10/4F-10,Islamabad,Islamabad
+Capital(051)111446
+699
+CheeziousF-11BranchLibertySquarePlaza,HilalRoad,F-11Markaz,
+Islamabad(051)111446
+699
+CheeziousGolraMorr
+BranchUniRoad,GolraMorr,Islamabad(051)111446
+699
+CheeziousGhauriTown
+BranchStreet8-B,GhauriTownPhase5-B,Islamabad(051)111446
+699
+CheeziousCentaurus
+BranchLocatedatCentaurusMall,Islamabad(051)111446
+699
+CheeziousI-8Branch PaklandCityCenter,I-8Markaz,Islamabad(051)111446
+699

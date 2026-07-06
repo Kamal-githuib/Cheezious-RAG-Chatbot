@@ -1,0 +1,9 @@
+ RegularPizzaDeal:1regularpizzaand2regulardrinks.
+ LargePizzaDeal:AnyflavorfromLocalLoveorOvertheSeacategorywitha1-literdrink.
+SpecialPizza
+ CrownCrustPIzza:Ayummyblendofgrilledchicken,olives,onion,capsicumandaspecialsauce.
+ StuffCrustPIzzal:Specialchicken,greenolives,mushroomswithcrustfilledwithcheeseorkabab.
+SomewhatAmazing
+ Deal1:2Bazinga,regularfries,2regulardrinks
+ Deal2:2Bazinga,2pcchicken,largefries,2regulardrinks
+ Deal3:3Bazinga,largefries,1litredrink.

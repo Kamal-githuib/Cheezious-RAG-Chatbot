@@ -1,0 +1,17 @@
+CheeziousInLahore
+BranchName Timing
+CheeziousFaisalTown 11am–3am
+CheeziousPackagesMall 11am–3am
+CheeziousJallo 11am–3am
+CheeziousG3Branch 11am–3am
+CheeziousJ3Branch 11am–2am
+CheeziousBaghbanpuraBranch 11am–3am
+CheeziousDHAPhase4Branch 11am–3am
+CheeziousGulshan-e-RaviBranch 11am–11pm
+CheeziousJailRoadBranch 11am–3am
+CheeziousNespakBranch 11am–3am
+CheeziousShadbaghBranch 11am–3am
+CheeziousGulberg3 11am–3am
+CheeziousInPeshawar
+BranchName Timing
+CheeziousHBKBranch 11am–3am

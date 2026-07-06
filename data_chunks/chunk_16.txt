@@ -1,0 +1,14 @@
+CheeziousMidnightMunch Price
+Munch1(AlfredoFettuccinePasta) Rs900
+Munch2(CrunchyChickenPasta) Rs900
+Munch3(1Bazinga345mlDrink) Rs550
+Munch4(1RegularCrownCrust+1LiterDrink) Rs1400
+CheeziousMenuCombos
+InCheeziousmenuyou’llgetdifferentcomboswiththemainfooditem.Hereisthelistofallcomboswithpricesavailableat
+Cheezious
+CheeziousMenuCombo Price
+Bazooka+fries+RegDrink Rs930
+ReggyBurger+Fries+RegDrink Rs690
+ReggyBurger+CheeseSlice Rs450
+BazingaBurger+Fries+Reg.Drink Rs860
+BazingaBurger+CheeseSlice Rs620

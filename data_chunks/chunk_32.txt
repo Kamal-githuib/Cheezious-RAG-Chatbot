@@ -1,0 +1,20 @@
+BranchName Timing
+CheeziousHBKBranch 11am–3am
+CheeziousTehkalBranch 11am–2am
+CheeziousInOkara
+BranchName Timing
+CheeziousOkaraBranch 11am–2am
+CheeziousInSahiwal
+BranchName Timing
+CheeziousNearPilotSchoolBranch 11am–3am
+CheeziousPalmViewMarketBranch 12pm–3am
+CheeziousInMianChannu
+BranchName Timing
+CheeziousPalmViewMarketBranch 12pm–3am
+CheeziousInPattoki
+BranchName Timing
+CheeziousPattokiBranch 10pm–2am
+CheeziousInWahCantt
+BranchName Timing
+CheeziousWahBranch 11am–3am
+CheeziousInKarachi

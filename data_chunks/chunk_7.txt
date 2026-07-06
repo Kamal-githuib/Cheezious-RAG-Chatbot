@@ -1,0 +1,38 @@
+Rs390
+BazingaBurger
+Rs560
+Bazooka
+Rs630
+Side&Appetizers
+Fries
+Rs220
+Nuggets
+Rs450
+ChickenPiece
+Rs300
+Addon’s
+Juice
+Rs60
+MayoDip
+Rs80
+WaterSmall
+Rs60
+SoftDrink
+Rs100
+Desserts
+ChocolateMilkCake
+Rs650
+LotusMilkCake
+Rs550
+FudgeMilkCake
+Rs400
+CheeseCakeSlice
+Rs550
+UnlimitedSoftDrinks
+Cheeziousoffersspecialdealswithunlimitedsoftdrinks.Youcangetthisofferatanybranchindifferentcities.
+CheeziousMenuBestItems
+ CrownCrustPizza
+ FlamingWings
+ CrunchyChickenPasta
+ MexicanSandwich
+ Nuggets

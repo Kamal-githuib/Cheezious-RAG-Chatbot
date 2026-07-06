@@ -1,0 +1,16 @@
+699
+CheeziousTaramriBranch StreetA3,Taramri,Islamabad(051)111446
+699
+CheeziousG-13Branch KhawajaPlaza,G-13/1,Islamabad(051)111446
+699
+CheeziousGigaMall
+BranchFoodCourt,2ndFloorGiga,Mall,Islamabad(051)111446
+699
+CheeziousG.Troad MainGTRoad,oppositeGigaMall,Islamabad(051)111446
+699
+CheeziousHeadquartersPlot9,TheInterlace,2ndFloor,Markaz,I-8,
+Islamabad(051)8899174
+CheeziousInLahore
+BranchName Location ContactNumber
+CheeziousFaisalTown 25-CFaisal,BlockCTown,Lahore,Punjab(042)111446
+699

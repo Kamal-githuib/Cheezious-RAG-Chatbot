@@ -1,0 +1,17 @@
+town,Rawalpindi051
+111446699
+CheeziousAdyalaRoad
+BranchAdyalaRoad,Rawalpindi 0515561245
+CheeziousKalmaChowk
+BranchPlotNo.CB-369/370MainDhamialRoadKalmaChowk,
+Rawalpindi0515680014
+CheeziousBahriaTown
+BranchPlot21-FoodStreet,SpringNorthBahria,7Phase,
+Rawalpindi03311000500
+CheeziousInIslamabad
+BranchName Location ContactNumber
+CheeziousG-95thFloor,PakChinaMall,FoodCourt,Markaz,G-
+9,Islamabad(051)111446
+699
+CheeziousF-7Markaz
+Branch6bBhittaiRd,F-7Markaz,Islamabad (051)8899854

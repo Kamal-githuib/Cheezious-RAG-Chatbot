@@ -1,0 +1,10 @@
+specificorder.
+ Cashpayment
+ CreditCard/DebitCard(Visacard,Mastercard)
+ MobileWallets(Jazz-Cash,Easypaisa)
+ CheeziousCashVouchers
+CheeziousOnlineOrders
+CheeziousOffersthreemethodsforonlineorders:
+ CheeziousApp:ThemostpreferredmethodtoorderCheeziousonlineisviatheapp.TheCheeziousapphasanupdatedmenu,
+sometimesofferingdiscounts,vouchers,anddealsforappusers.
+ CheeziousNumber:ThemostcommonandtraditionalmethodtoorderonlinefromCheeziousisbycallingtheirnumber.Make

@@ -1,0 +1,8 @@
+ Deal3:3Bazinga,largefries,1litredrink.
+ Deal4:3Bazinga,3chickenPieces,1-litredrink
+Pastas
+ FettuccineAlfredoPasta:FettuccinePastamadeincreamywhitesaucewithchickenchunkstoppedwithcheese.
+ CrunchyChickenPasta:Macaronipastainwhitesaucetoppedwithcrunchychickenandcheese.
+Burgers
+ ReggyBurger:Crispyfriedchickenpattywithlettuceandsauceinsesameseedbun.
+ BazingaBurger:2crispyfriedbonelessthighwithsignaturesauce,lettuceandsauceinacorndustedbun.
