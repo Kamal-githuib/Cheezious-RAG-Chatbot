@@ -1,7 +1,6 @@
-from langchain_community.vectorstores import FAISS
+from langchain.vectorstores import FAISS
 from langchain.docstore.document import Document
 import os
-from sentence_transformers import SentenceTransformer
 from langchain.embeddings import HuggingFaceEmbeddings
 
 def load_chunks(folder="data_chunks"):

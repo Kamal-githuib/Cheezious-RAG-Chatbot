@@ -1,0 +1,12 @@
+langchain
+langchain-community
+PyPDF2
+sentence-transformers
+chromadb
+streamlit
+python-dotenv
+pymupdf
+faiss-cpu
+transformers
+huggingface-hub
+torch
